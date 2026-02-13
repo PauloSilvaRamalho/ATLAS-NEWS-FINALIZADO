@@ -1,6 +1,8 @@
 ATLAS NEWS FILTRO E POSTAGEM
 
-criadores: Kayky Ribeiro Silva e Paulo Henrique Silva Ramalho
+criadores: Kayky Ribeiro Silva e Paulo Henrique Silva Ramalho;
+
+recursos principais utilizados: React, React-Native, Expo;
 
 resumo: Atlas News é um site feito para celulares que permite a postagem de notícias com tags, manchetes, texto e uma imagem (Via endereço da imagem), permite a filtragem das notícias por meio de filtros e também o clique que redireciona a manchete clicada para a noícia completa.
 
