@@ -43,6 +43,8 @@ ________________________________________________________________________________
 
 POSTS: são estilizados e tem sua funções inseridas utilizando a function "NewsItem" e são guardados utilizando no cache do navegador via AsyncStorage.
 
+_____________________________________________________________________________________________________________________________________
+
 Melhorias que poderiam ser feitas: 
 
   1.A opção de login está funcional, porém não há onde colocar as informações na tela de um celular de forma confortável. 
