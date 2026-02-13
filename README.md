@@ -17,6 +17,7 @@ Index.jsx
 
 <img width="369" height="606" alt="image" src="https://github.com/user-attachments/assets/27b5fc90-a7bd-4616-ba9f-0954fb30893e" /> <img width="371" height="607" alt="image" src="https://github.com/user-attachments/assets/4b45b1e4-e6fa-4daf-aad8-88ddf30f9705" />
 
+_____________________________________________________________________________________________________________________________________
 
 FILTRAGEM: consiste nos arquivos "esporte.jsx", "mundo.jsx", "tecnologia.jsx", que filtram utilizando o "title" de cada postagem.
 
