@@ -19,7 +19,8 @@ ________________________________________________________________________________
 
 HOME DO APP: consiste nos arquivos "Header.jsx" e "Index.jsx", que respectivamente criam o Header do app e o menu com os itens de filtragem e postagem.
 
-<img width="375" height="665" alt="image" src="https://github.com/user-attachments/assets/c137b2d5-eee9-4333-bf6e-616a22770d7a" /> <img width="375" height="667" alt="image" src="https://github.com/user-attachments/assets/edf7a2d6-6036-4db1-ac94-06d71197bb26" />
+<img width="375" height="665" alt="image" src="https://github.com/user-attachments/assets/c137b2d5-eee9-4333-bf6e-616a22770d7a" /> <img width="378" height="668" alt="image" src="https://github.com/user-attachments/assets/5c97aeec-5fa0-4767-b8dd-9e1853a91233" />
+
 
 
 
