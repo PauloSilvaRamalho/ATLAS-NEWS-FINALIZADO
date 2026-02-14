@@ -1,10 +1,13 @@
 ATLAS NEWS FILTRO E POSTAGEM
+_____________________________________________________________________________________________________________________________________
 
 criadores: Kayky Ribeiro Silva (criou o espaço virtual, todo o esqueleto do site além do sistema de navegação por notícias)
 
 e 
 
 Paulo Henrique Silva Ramalho (criou a aparência via stylesheet, funcionalidade dos botões e manchetes, e sistema de save);
+
+_____________________________________________________________________________________________________________________________________
 
 recursos principais utilizados: React, React-Native, Expo;
 
