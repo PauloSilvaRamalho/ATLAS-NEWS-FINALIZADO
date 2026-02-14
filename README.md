@@ -21,7 +21,7 @@ HOME DO APP: consiste nos arquivos "Header.jsx" e "Index.jsx", que respectivamen
 
 Header.jsx
 
-<img width="373" height="60" alt="image" src="https://github.com/user-attachments/assets/ce2bfc32-5bd9-4449-a6b7-9289d2453c2c" /> <img width="201" height="335" alt="image" src="https://github.com/user-attachments/assets/abfdf642-b582-4754-8d4e-77ae695b6730" />
+<img width="375" height="665" alt="image" src="https://github.com/user-attachments/assets/c137b2d5-eee9-4333-bf6e-616a22770d7a" />
 
 
 Index.jsx
