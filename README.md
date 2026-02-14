@@ -1,7 +1,9 @@
 ATLAS NEWS FILTRO E POSTAGEM
 _____________________________________________________________________________________________________________________________________
 
-criadores: Kayky Ribeiro Silva (criou o espaço virtual, todo o esqueleto do site além do sistema de navegação por notícias)
+criadores: 
+
+Kayky Ribeiro Silva (instalou os frameworks utilizados , criou esqueleto do site além do sistema de navegação por notícias)
 
 e 
 
