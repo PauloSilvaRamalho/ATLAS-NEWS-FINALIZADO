@@ -7,7 +7,7 @@ Kayky Ribeiro Silva (instalou os frameworks utilizados , criou esqueleto do site
 
 e 
 
-Paulo Henrique Silva Ramalho (criou a aparência via stylesheet, funcionalidade dos botões e manchetes, e sistema de save);
+Paulo Henrique Silva Ramalho (criou a aparência via stylesheet, funcionalidade dos botões e manchetes, e sistema de save)
 
 _____________________________________________________________________________________________________________________________________
 
